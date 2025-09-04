@@ -1,6 +1,8 @@
 # lipsitz.test
 Lipsitz goodness of fit test for ordinal logistic models Use lipsitz.test (generalhoslem) With (In) R Software
 
+https://www.youtube.com/watch?v=kWePsrjkmnY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
